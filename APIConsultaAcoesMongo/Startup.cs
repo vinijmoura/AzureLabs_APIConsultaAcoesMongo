@@ -30,7 +30,7 @@ namespace APIConsultaAcoesMongo
                     new OpenApiInfo
                     {
                         Title = "Ações - Testes - Consulta ao MongoDB",
-                        Version = "v1",
+                        Version = "v2",
                         Description = "Exemplo de API REST criada com o ASP.NET Core 3.1 para a consulta de dados de ações de uma base do MongoDB",
                         Contact = new OpenApiContact
                         {
